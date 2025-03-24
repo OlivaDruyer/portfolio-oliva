@@ -7,7 +7,7 @@ export default function Contact() {
           <img
             src="/images/left-contact1.png"
             alt="Illustration Gauche"
-            className="w-1/4 h-auto rounded-md opacity-65 absolute top-20 left-80"
+            className="w-1/4 h-auto rounded-md opacity-65 absolute top-20 left-56"
           />
         </div>
 
@@ -18,7 +18,7 @@ export default function Contact() {
     N'hésitez pas à me contacter par email ou à me rejoindre sur LinkedIn pour échanger et collaborer ! 🚀
   </p>
   <div className="mt-6">
-    <a href="mailto:olivadruyer34@gmail.com" className="text-[#25455B] text-lg font-semibold block sm:inline mx-24">
+    <a href="mailto:olivadruyer34@gmail.com" className="text-[#25455B] text-lg font-semibold block sm:inline mx-24 md:mx-4">
       📧 olivadruyer34@gmail.com
     </a>
   </div>

@@ -64,7 +64,7 @@ export default function Competences() {
 
       {/* Bouton de téléchargement du CV */}
       <a
-        href="/mon-cv.pdf"
+        href="/images/CVDruyerOliva-2025.pdf"
         download
         className="mt-10 inline-block bg-[#e27d6d] shadow-md hover:bg-[#d95c4a] transition duration-300 text-white px-6 py-3 rounded-full font-semibold"
       >

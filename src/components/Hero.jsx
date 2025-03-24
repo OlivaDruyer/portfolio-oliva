@@ -7,7 +7,7 @@ export default function Hero() {
         
         {/* Partie gauche : Texte + Bouton */}
         <div className="w-full md:w-1/2 flex flex-col items-center md:items-start text-center md:text-left">
-  <h2 className="text-3xl md:text-4xl font-semibold">
+  <h2 className="text-3xl mx-2 md:text-4xl font-semibold">
     Développeuse Front-End avec un attrait pour le design et l'esthétique des interfaces.
   </h2>
   <p className="mt-4 text-lg max-w-xl">
@@ -30,7 +30,7 @@ export default function Hero() {
           <img
             src="./images/illustr10bis.png"
             alt="Photo de Oliva"
-            className="w-11/12 md:w-90"
+            className="w-full md:w-full h-auto"
           />
         </div>
 
