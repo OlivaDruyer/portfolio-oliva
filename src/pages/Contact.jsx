@@ -25,7 +25,7 @@ export default function Contact() {
   <div className="mt-4 flex items-center gap-2 justify-center md:justify-start mx-24">
     <img src="/images/logo-linkedin.avif" alt="LinkedIn" className="w-6 h-6 sm:w-8 sm:h-8" />
     <a
-      href="https://www.linkedin.com/in/votre-profil"
+      href="https://www.linkedin.com/in/oliva-druyer"
       target="_blank"
       rel="noopener noreferrer"
       className="text-[#25455B] text-lg sm:text-xl font-semibold"
