@@ -6,7 +6,7 @@ import espritEquipeIcon from '/images/esprit-dequipe.png';
 
 export default function Competences() {
   return (
-    <section className="py-10 flex flex-col items-center text-center">
+    <section className="py-8 flex flex-col items-center text-center">
       {/* Illustration + Titre */}
       <div className="flex flex-wrap items-center gap-2 justify-center">
         <h2 className="text-3xl font-stardom text-justify mb-6">Compétences</h2>
@@ -41,7 +41,7 @@ export default function Competences() {
       </div>
 
       {/* Soft Skills alignées au centre */}
-      <div className="mt-10 w-full flex flex-col items-center">
+      <div className="mt-8 w-full flex flex-col items-center">
       <h2 className="text-xl md:text-left font-stardom shadow-sm px-4 py-3 mb-6 rounded-full inline-block bg-[#C6CFAC] hover:bg-[#9fa58c] transition duration-300">Soft Skills</h2>
         <div className="flex flex-wrap justify-center mb-8 gap-4">
           {[
