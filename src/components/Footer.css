@@ -1,0 +1,14 @@
+.shadow-top {
+    position: relative;
+  }
+  
+  .shadow-top::before {
+    content: "";
+    position: absolute;
+    top: -8px; /* Ajustez cette valeur pour contrôler la hauteur de l'ombre */
+    left: 0;
+    right: 0;
+    height: 8px; /* Ajustez cette valeur pour contrôler la hauteur de l'ombre */
+    background: linear-gradient(to bottom, rgba(69, 68, 68, 0.065), transparent);
+  }
+  
